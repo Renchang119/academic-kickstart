@@ -11,7 +11,8 @@ weight = 5
 [interests]
   interests = [
     "Artificial Intelligence",
-    "Power System Operation and Control",
+    "Power System Operation",
+    "Power System Control",
     "Renewable Energy",
     "Parallel Computing"
   ]
@@ -40,8 +41,8 @@ Renchang Dai is a manager of Graph Computing & Grid Modernization at the GEIRI N
 
 Before Dr. Dai joined in GEIRINA, he worded with GE/Alstom as a team leader on Energy Management System (EMS) development. The developed EMS core functions have been proven by live EMS in more than 100 control centers.
 
-As a founder member of GE Energy Consulting Smart Grid COE, Renchang consulted on smart grid deployment and renewable energy grid integration for GE and its utility clients. He has full experience on power system modeling and analysis. Understands current power system planning, operation, and control practices and future trends. 
+As a founder member of GE Energy Consulting Smart Grid COE, Dr. Dai consulted on smart grid deployment and renewable energy grid integration for GE and its utility clients. He has full experience on power system modeling and analysis. Understands current power system planning, operation, and control practices and future trends. 
 
-Renchang has proven knowledge on power converter control, wind turbine electrical system design and wind energy grid integration technology. He published patents and papers on renewable energy control and wind energy grid interconnection. As a key inventor, he developed unique wind turbine Low Voltage Ride-through technologies having been widely used in field all around the world.
+Dr. Dai has proven knowledge on power converter control, wind turbine electrical system design and wind energy grid integration technology. He published patents and papers on renewable energy control and wind energy grid interconnection. As a key inventor, he developed unique wind turbine Low Voltage Ride-through technologies having been widely used in field all around the world.
 
 Dr. has published more than 60 papers and technical reports. He is a Senior Member of IEEE PES.
