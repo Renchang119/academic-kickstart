@@ -7,14 +7,14 @@ active = true
 date = 2016-04-20T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Custom Section"
+title = "US Patents"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 60
+weight = 21
 
 +++
-
-This is an example of using the *custom* widget to create your own homepage section.
-
-To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`.
+[GRANTED]
+1.	Protective Circuit and Method for Multi-level Converter, US 8,093,741
+2.	Method, Apparatus and Computer Program Product for Injecting Current, US 7,423,412
+3.	Apparatus, Method and Computer Program Product for Tracking Information in an Electric Grid, US 7,456,695 
