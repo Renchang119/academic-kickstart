@@ -45,4 +45,4 @@ As a founder member of GE Energy Consulting Smart Grid COE, Dr. Dai consulted on
 
 Dr. Dai has proven knowledge on power converter control, wind turbine electrical system design and wind energy grid integration technology. He published patents and papers on renewable energy control and wind energy grid interconnection. As a key inventor, he developed unique wind turbine Low Voltage Ride-through technologies having been widely used in field all around the world.
 
-Dr. has published more than 60 papers and technical reports. He is a Senior Member of IEEE PES.
+Dr. has published more than 60 papers and technical reports. He is a Senior Member of IEEE PES. 
