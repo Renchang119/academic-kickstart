@@ -15,6 +15,9 @@ weight = 21
 
 +++
 [GRANTED]
+
 1.	Protective Circuit and Method for Multi-level Converter, US 8,093,741
+
 2.	Method, Apparatus and Computer Program Product for Injecting Current, US 7,423,412
+
 3.	Apparatus, Method and Computer Program Product for Tracking Information in an Electric Grid, US 7,456,695 
