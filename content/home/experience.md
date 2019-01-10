@@ -70,7 +70,7 @@ date_format = "January 2006"
   company_url = ""
   location = "Beijing"
   date_start = "2002-02-12"
-  date_end = "2004-7-30"
+  date_end = "2004-07-30"
   description = """Lead an engineering team to initiate T&D new product introduction, propose solutions for RFP, and develop distribution management system."""
 
 +++
