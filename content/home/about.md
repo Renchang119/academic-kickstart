@@ -11,7 +11,7 @@ weight = 5
 [interests]
   interests = [
     "Artificial Intelligence",
-    "Power System Operation",
+    "Power System Analysis",
     "Power System Control",
     "Renewable Energy",
     "Parallel Computing"
