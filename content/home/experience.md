@@ -25,9 +25,7 @@ date_format = "January 2006"
   location = "California"
   date_start = "August 2017"
   date_end = "Present"
-  description = """
-  Lead a team to research cutting edge and innovative technologies on parallel computing, artificial intelligence, and knowledge graph for power system applications on Energy Management System, Electromechanical and Electromagneticic Transient Simulation, Integrated Energy Services, and Asset Management.
-  """
+  description = """Lead a team to research cutting edge and innovative technologies on parallel computing, artificial intelligence, and knowledge graph for power system applications on Energy Management System, Electromechanical and Electromagneticic Transient Simulation, Integrated Energy Services, and Asset Management."""
 
 [[experience]]
   title = "Team Leader"
@@ -73,6 +71,6 @@ date_format = "January 2006"
   location = "Beijing"
   date_start = "February 2002"
   date_end = "July 2008"
-  description = """Lead an engineering team to initiate T&D new product introduction, propose solutions for RFP, and develop distribution management system"""
+  description = """Lead an engineering team to initiate T&D new product introduction, propose solutions for RFP, and develop distribution management system."""
 
 +++
