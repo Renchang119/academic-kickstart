@@ -70,5 +70,3 @@ publication_type = "-1"
 37.	Mei Hong, Ming Ding, Renchang Dai, The Probabilistic Modeling of Protection Systems and its Effect on Composite Systems Reliability. Power Systems Technology. Vol.21, No.8, pp44-48.
 38.	Ming Ding, Renchang Dai, Mei Hong, et al. Simulation to the Weather Condition Affecting the Reliability of Transmission Networks. Automation of Electrical Power System. Vol.21, No.1, pp14-18.
 39.	Mei Hong, Ming Ding, Renchang Dai, et al. A Mixed Load Model for Composite Systems Reliability Evaluation. Journal of Hefei University of Technology Sci. & Tech., Vol.12, No.2, pp14-18.
-
-
