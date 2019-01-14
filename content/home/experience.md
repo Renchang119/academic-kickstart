@@ -34,7 +34,7 @@ date_format = "January 2006"
   location = "Washington"
   date_start = "2012-12-15"
   date_end = "2017-07-30"
-  description = """Propose solution to meet customer's software requirement. design functional and software requirements, develop EMS functions and features for EMS. Deliver EMS project to customers."""
+  description = """Propose solution to meet customer's software requirement. Perform functional and detail design to meet software requirements. Develop EMS functions and features for EMS. Deliver EMS project to customers."""
   
   
 [[experience]]
@@ -53,7 +53,7 @@ date_format = "January 2006"
   location = "Iowa"
   date_start = "2008-07-16"
   date_end = "2008-04-15"
-  description = """Lead and conduct research projects on Wind energy, operational risk management, and special protection scheme."""
+  description = """Lead and conduct research projects on Wind Energy, Operational Risk Management, and Special Protection Scheme."""
 
 [[experience]]
   title = "Lead Scientits"
