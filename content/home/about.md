@@ -39,9 +39,9 @@ weight = 5
 
 Renchang Dai is a manager of Graph Computing & Grid Modernization at the GEIRI North America. In GEIRINA, he leads a team to research and develop cutting edge high performance computing and artificial intelligence technologies for power system applications. 
 
-Before Dr. Dai joined in GEIRINA, he worded with GE/Alstom as a team leader on Energy Management System (EMS) development. The developed EMS core functions have been proven by live EMS in more than 100 control centers.
+Before Dr. Dai joined in GEIRINA, he worked with GE/Alstom as a team leader on Energy Management System (EMS) development. The developed EMS core functions have been proven by live EMS in more than 100 control centers.
 
-As a founder member of GE Energy Consulting Smart Grid COE, Dr. Dai consulted on smart grid deployment and renewable energy grid integration for GE and its utility clients. He has full experience on power system modeling and analysis. Understands current power system planning, operation, and control practices and future trends. 
+As a founder member of GE Energy Consulting Smart Grid COE, Dr. Dai consulted on smart grid deployment and renewable energy grid integration for GE and its utility clients. He has full experience on power system modeling and analysis, understands current power system planning, operation, and control practices and future trends. 
 
 Dr. Dai has proven knowledge on power converter control, wind turbine electrical system design and wind energy grid integration technology. He published patents and papers on renewable energy control and wind energy grid interconnection. As a key inventor, he developed unique wind turbine Low Voltage Ride-through technologies having been widely used in field all around the world.
 
