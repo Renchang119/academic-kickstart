@@ -25,7 +25,7 @@ date_format = "January 2006"
   location = "California"
   date_start = "2017-08-01"
   date_end = ""
-  description = """ Lead a team to research cutting edge and innovative technologies on parallel computing, artificial intelligence, and knowledge graph for power system applications on Energy Management System, Electromechanical and Electromagneticic Transient Simulation, Integrated Energy Services, and Asset Management."""
+  description = """ Lead a team to research cutting edge and innovative technologies on parallel computing, artificial intelligence, and knowledge graph for power system applications on Energy Management System, Electromechanical and Electromagnetic Transient Simulation, Integrated Energy Services, and Asset Management."""
 
 [[experience]]
   title = "Team Leader"
@@ -56,7 +56,7 @@ date_format = "January 2006"
   description = """Lead and conduct research projects on Wind Energy, Operational Risk Management, and Special Protection Scheme."""
 
 [[experience]]
-  title = "Lead Scientits"
+  title = "Lead Scientist"
   company = "GE Global Research"
   company_url = ""
   location = "Shanghai"
